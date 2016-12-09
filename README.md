@@ -18,5 +18,3 @@ Ryu
 ## Run the application
 
 `$ ryu-manager simple_switch_13_corsa.py`
-
-`
